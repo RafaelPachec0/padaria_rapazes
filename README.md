@@ -1,23 +1,9 @@
-# Padaria Rapazes — site
+PA-DA Padoca Rapazes
 
-Protótipo responsivo criado a partir do wireframe desenhado à mão.
+O site é composto por:
 
-## Arquivos
+Pagina Inicial: Contém as principais informações do site como produtos, localização e uma breve expliacação sobre a história da Pa-Da;
 
-- `index.html` — estrutura da página.
-- `style.css` — layout, tipografia, cores e responsividade.
-- `script.js` — menu mobile, modal de pedido e interações.
+Pagina de produtos: Contém as informações de produtos disponíveis na Pa-Da e o preço de cada um deles;
 
-## Antes de publicar
-
-Troque no `index.html`:
-- endereço;
-- telefone;
-- e-mail;
-- Instagram/Facebook;
-- horários;
-- nomes/descrições dos produtos.
-
-Também é possível trocar os emojis por fotos reais dos produtos.
-
-Abra `index.html` no navegador para testar.
+Pagina de História: Pagina onde se encotra a história da padaria desde sua criação até os dias atuais.
